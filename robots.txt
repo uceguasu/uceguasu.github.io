@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uceguasu.github.io/DoQ/sitemap_index.txt
+Sitemap: https://uceguasu.github.io/IiB/sitemap_index.txt
+Sitemap: https://uceguasu.github.io/SGE/sitemap_index.txt
+Sitemap: https://uceguasu.github.io/yUf/sitemap_index.txt
